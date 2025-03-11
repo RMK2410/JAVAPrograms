@@ -13,7 +13,7 @@ public class Datatype {
         System.out.println("char is "+c);
         System.out.println("long is " +l);
         System.out.println("double is " +d);
-        System.out.println("float is " +f);
+        System.out.print("float is " +f);
 
 
 
