@@ -1,6 +1,6 @@
 package datatype;
 
-import java.io.PrintStream;
+
 
 public class Table {
     public static void main(String[] args) {
