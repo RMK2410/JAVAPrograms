@@ -5,7 +5,7 @@ public class Datatype {
         byte a=10;
         int b=20,i=30, z=40;
         char c='A';
-        long l=100000005670L;
+        long l=100005605670L;
         double d=235678.8888888;
         float f=234.78F;
         System.out.println("byte is " + a);
