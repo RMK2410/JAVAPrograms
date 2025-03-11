@@ -5,7 +5,7 @@ import java.io.PrintStream;
 public class Table {
     public static void main(String[] args) {
         int a=9;
-        System.out.printf("%d * %d =%d",a,1,(a*1));
+        System.out.printf("%d * %d =%d",a,1,(a));
         System.out.println();
         System.out.printf("%d * %d =%d", a,2,(a*2));
         System.out.println();
